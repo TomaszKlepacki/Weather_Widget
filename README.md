@@ -1,4 +1,8 @@
-=======
+
+
+check final results: https://heartfelt-frangollo-2673c5.netlify.app/
+
+
 # vue-training
 
 ## Project setup
